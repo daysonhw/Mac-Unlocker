@@ -1,0 +1,1 @@
+uvicorn main:app --host 192.168.2.2 --port 12345 --ssl-keyfile=*.key --ssl-certfile=*.pem
